@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     "apps.accounts.apps.AccountsConfig",
     "apps.prompts.apps.PromptsConfig",
     "apps.taxonomy.apps.TaxonomyConfig",
-    "apps.collections.apps.CollectionConfig",
+    "apps.collection.apps.CollectionConfig",
     "apps.interactions.apps.InteractionsConfig",
     "apps.search.apps.SearchConfig",
     "apps.reports.apps.ReportsConfig",
